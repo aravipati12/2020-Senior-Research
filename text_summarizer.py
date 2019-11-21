@@ -1,12 +1,9 @@
 # from textteaser import TextTeaser
 # tt = TextTeaser()
-
-f = open("transcript.txt", "r")
-transcript = f.read()
-print(transcript)
 # tt.summarize("Summary", transcript)
 
-# $ git clone https://github.com/MojoJolo/textteaser.git
-# $ sbt compile
-# $ sbt eclipse // If using Eclipse.
-# $ sbt run
+from gensim.summarization.summarizer import summarize
+# f = open("transcript.txt", "r")
+text = "Yesterday I went to play basketball and it was a sunny and warm day. I went with friends. Afterwards we went to get food at a restaurant. I came hom at 10 PM."
+
+print(summarize(text))
