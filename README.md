@@ -1,7 +1,7 @@
 # Developing an Automated Algorithm for Transcribing and Summarizing Videos
 
 
-## Overivew
+## Overview
 
 ### Motivation
 
