@@ -22,3 +22,10 @@ We will develop an algorithm to streamline and automate the process of **transcr
 ## Run Instructions
 
 ## Sample Output
+
+## Acknowledgments
+The authors would like to acknowledge TJHSST Computer Systems Lab Director Dr. Patrick White for his guidance and support as our research mentor.
+
+## Authors
+- [@arnavbansal1](https://github.com/arnavbansal1)
+- [@aravipati12](https://github.com/aravipati12)
