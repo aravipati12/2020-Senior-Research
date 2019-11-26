@@ -14,12 +14,20 @@
 
 We will develop an algorithm to streamline and automate the process of **transcribing** and **summarizing** speech in TED talks using IBM Watson and natural language processing (NLP).
 
-
 ## Requirements
+
+* Latest Python Downloaded
 
 ## Installation Instructions
 
+* IBM Watson
+* FFMPEG
+* Pydub
+* Gensim
+
 ## Run Instructions
+
+Normally Run Python File in Terminal (ex. python3 stt.py)
 
 ## Sample Output
 
