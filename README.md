@@ -16,14 +16,17 @@ We will develop an algorithm to streamline and automate the process of **transcr
 
 ## Requirements
 
-* Latest Python Downloaded
-
-## Installation Instructions
-
 * IBM Watson
 * FFMPEG
 * Pydub
 * Gensim
+
+## Installation Instructions
+
+* IBM Watson - Make an Account on https://www.ibm.com/cloud/watson-speech-to-text, Retrieve URL and API Key and Download Packages Using Homebrew
+* FFMPEG - Download From https://www.ffmpeg.org/download.html and Install Using Homebrew
+* Pydub - Install Using Homebrew
+* Gensim - Install Using Homebrew
 
 ## Run Instructions
 
