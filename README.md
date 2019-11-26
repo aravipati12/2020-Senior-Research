@@ -32,6 +32,10 @@ We will develop an algorithm to streamline and automate the process of **transcr
 
 Normally Run Python File in Terminal (ex. python3 stt.py)
 
+## Sample Output
+
+IN PROGRESS
+
 ## Acknowledgments
 The authors would like to acknowledge TJHSST Computer Systems Lab Director Dr. Patrick White for his guidance and support as our research mentor.
 
