@@ -12,21 +12,20 @@
 
 ### Proposed Solution
 
-We will develop an algorithm to streamline and automate the process of **transcribing** and **summarizing** speech in TED talks using IBM Watson and natural language processing (NLP).
+We will develop an algorithm to streamline and automate the process of **transcribing** and **summarizing** speech in TED talks using Google Cloud Speech to Text API and natural language processing (NLP).
 
 ## Requirements
 
-* IBM Watson
-* FFMPEG
+* Google Cloud Speech to Text API
 * Pydub
-* Gensim
+* NLTK
+* NumPy
 
 ## Installation Instructions
 
-* IBM Watson - Make an Account on https://www.ibm.com/cloud/watson-speech-to-text, Retrieve URL and API Key and Download Packages Using Homebrew
-* FFMPEG - Download From https://www.ffmpeg.org/download.html and Install Using Homebrew
+* Google Cloud Speech to Text API - Make an Account using your Google Account, Download Account Info in JSON File and Download Packages Using Homebrew
 * Pydub - Install Using Homebrew
-* Gensim - Install Using Homebrew
+* NumPy - Install Using Homebrew
 
 ## Run Instructions
 
