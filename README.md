@@ -30,9 +30,9 @@ We will develop an algorithm to streamline and automate the process of **transcr
 
 ## Run Instructions
 
-Manually Change the Audio File in google_stt.py
-Run google_stt.py in Terminal (ex. python3 google_stt.py)
-Run test.py in Terminal (ex. python3 test.py)
+* Manually Change the Audio File in google_stt.py
+* Run google_stt.py in Terminal (ex. python3 google_stt.py)
+* Run test.py in Terminal (ex. python3 test.py)
 
 ## Sample Output
 
