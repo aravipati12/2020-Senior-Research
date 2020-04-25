@@ -2,10 +2,10 @@ from google.cloud import speech_v1p1beta1
 from google.cloud.speech_v1 import enums
 from google.cloud import storage
 from pydub import AudioSegment
-import io, os
+import sys, io, os
 os.environ["GOOGLE_APPLICATION_CREDENTIALS"]="Test1-f025040650eb.json"
 
-mp3_audio = AudioSegment.from_file("audio/speech.mp3", format="mp3")  # sys.argv[1]
+mp3_audio = AudioSegment.from_file("audio/" + sys.argv[1], format="mp3")  #speech.mp3
 mp3_audio.export("audio/audio.flac", format="flac")
 
 storage_client = storage.Client()
