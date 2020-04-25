@@ -29,7 +29,7 @@ We will develop an algorithm to streamline and automate the process of **transcr
 
 ## Run Instructions
 
-* Run google_stt.py with an audio file as the input in Terminal (ex. python3 google_stt.py audio.mp3)
+* Run google_stt.py with an audio file as the input in Terminal (ex. python3 google_stt.py speech.mp3)
 * Run test.py in Terminal (ex. python3 test.py)
 
 ## Sample Output
